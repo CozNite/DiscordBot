@@ -22,4 +22,4 @@ Working commands
 yt!help
 yt!config
 
-## If you need help contact me at bot.shadolite@gmail.com
+#### If you need help contact me at bot.shadolite@gmail.com
