@@ -2,26 +2,26 @@
 
 ### - Rules Bot
 
-- Working commands
+Working commands
 
-r!help
+- r!help
 
-r!config
+- r!config
 
 ### - Twitch Bot 
 
-- Working commands
+Working commands
 
-twitch!help
+- twitch!help
 
-twitch!config
+- twitch!config
 
 ### - YouTube Bot
 
-- Working commands
+Working commands
 
-yt!help
+- yt!help
 
-yt!config
+- yt!config
 
 #### If you need help contact me at bot.shadolite@gmail.com
